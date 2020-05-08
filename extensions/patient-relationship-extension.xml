@@ -1,3 +1,0 @@
-<extension mlns="http://hl7.org/fhir" url="https://ismithomnitech.github.io/fhir-extensability/extensions/patient-relationship-extension">
-  <valueReference reference="[string]" type="Patient"/>
-</extension>
